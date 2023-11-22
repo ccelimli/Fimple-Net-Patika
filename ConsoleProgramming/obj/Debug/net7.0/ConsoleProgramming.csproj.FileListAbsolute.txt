@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\bin\Debug\net7.0\ConsoleProgramming.exe
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\bin\Debug\net7.0\ConsoleProgramming.deps.json
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\bin\Debug\net7.0\ConsoleProgramming.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\bin\Debug\net7.0\ConsoleProgramming.dll
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\bin\Debug\net7.0\ConsoleProgramming.pdb
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.dll
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\refint\ConsoleProgramming.dll
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.pdb
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ConsoleProgramming.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\ConsoleProgramming\obj\Debug\net7.0\ref\ConsoleProgramming.dll
