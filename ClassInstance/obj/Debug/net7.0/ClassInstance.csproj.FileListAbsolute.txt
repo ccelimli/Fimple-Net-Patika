@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\bin\Debug\net7.0\ClassInstance.exe
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\bin\Debug\net7.0\ClassInstance.deps.json
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\bin\Debug\net7.0\ClassInstance.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\bin\Debug\net7.0\ClassInstance.dll
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\bin\Debug\net7.0\ClassInstance.pdb
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.dll
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\refint\ClassInstance.dll
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.pdb
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ClassInstance.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\ClassInstance\obj\Debug\net7.0\ref\ClassInstance.dll
