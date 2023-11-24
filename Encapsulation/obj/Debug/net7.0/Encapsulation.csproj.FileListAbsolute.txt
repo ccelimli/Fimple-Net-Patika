@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\bin\Debug\net7.0\Encapsulation.exe
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\bin\Debug\net7.0\Encapsulation.deps.json
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\bin\Debug\net7.0\Encapsulation.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\bin\Debug\net7.0\Encapsulation.dll
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\bin\Debug\net7.0\Encapsulation.pdb
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.dll
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\refint\Encapsulation.dll
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.pdb
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\Encapsulation.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\Encapsulation\obj\Debug\net7.0\ref\Encapsulation.dll

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Vari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{7FFC946A-3D53-4088-A7AC-7A8D75AA9B0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassInstance", "ClassInstance\ClassInstance.csproj", "{82F3BF8E-2CB1-4B9F-91E1-5A8123C370A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassInstance", "ClassInstance\ClassInstance.csproj", "{82F3BF8E-2CB1-4B9F-91E1-5A8123C370A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{C68B8429-7B7C-4E26-BBA1-1209AD5D6D76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{82F3BF8E-2CB1-4B9F-91E1-5A8123C370A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F3BF8E-2CB1-4B9F-91E1-5A8123C370A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F3BF8E-2CB1-4B9F-91E1-5A8123C370A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68B8429-7B7C-4E26-BBA1-1209AD5D6D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68B8429-7B7C-4E26-BBA1-1209AD5D6D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68B8429-7B7C-4E26-BBA1-1209AD5D6D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68B8429-7B7C-4E26-BBA1-1209AD5D6D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
