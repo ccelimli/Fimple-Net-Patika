@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\Statics\bin\Debug\net7.0\Statics.exe
+C:\workspace\FimpleNet\FimpleNet\Statics\bin\Debug\net7.0\Statics.deps.json
+C:\workspace\FimpleNet\FimpleNet\Statics\bin\Debug\net7.0\Statics.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\Statics\bin\Debug\net7.0\Statics.dll
+C:\workspace\FimpleNet\FimpleNet\Statics\bin\Debug\net7.0\Statics.pdb
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.dll
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\refint\Statics.dll
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.pdb
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\Statics.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\Statics\obj\Debug\net7.0\ref\Statics.dll
