@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\Enums\bin\Debug\net7.0\Enums.exe
+C:\workspace\FimpleNet\FimpleNet\Enums\bin\Debug\net7.0\Enums.deps.json
+C:\workspace\FimpleNet\FimpleNet\Enums\bin\Debug\net7.0\Enums.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\Enums\bin\Debug\net7.0\Enums.dll
+C:\workspace\FimpleNet\FimpleNet\Enums\bin\Debug\net7.0\Enums.pdb
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.dll
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\refint\Enums.dll
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.pdb
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\Enums.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\Enums\obj\Debug\net7.0\ref\Enums.dll
