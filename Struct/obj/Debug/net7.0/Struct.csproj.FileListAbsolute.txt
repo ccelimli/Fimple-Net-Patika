@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\Struct\bin\Debug\net7.0\Struct.exe
+C:\workspace\FimpleNet\FimpleNet\Struct\bin\Debug\net7.0\Struct.deps.json
+C:\workspace\FimpleNet\FimpleNet\Struct\bin\Debug\net7.0\Struct.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\Struct\bin\Debug\net7.0\Struct.dll
+C:\workspace\FimpleNet\FimpleNet\Struct\bin\Debug\net7.0\Struct.pdb
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.dll
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\refint\Struct.dll
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.pdb
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\Struct.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\Struct\obj\Debug\net7.0\ref\Struct.dll
