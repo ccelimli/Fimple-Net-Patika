@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\bin\Debug\net7.0\PhoneBook.exe
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\bin\Debug\net7.0\PhoneBook.deps.json
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\bin\Debug\net7.0\PhoneBook.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\bin\Debug\net7.0\PhoneBook.dll
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\bin\Debug\net7.0\PhoneBook.pdb
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.dll
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\refint\PhoneBook.dll
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.pdb
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\PhoneBook.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleWeeklyTasks\PhoneBook\obj\Debug\net7.0\ref\PhoneBook.dll
