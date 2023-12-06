@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\workspace\FimpleNet\FimpleNet\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\workspace\FimpleNet\FimpleNet\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\workspace\FimpleNet\FimpleNet\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
