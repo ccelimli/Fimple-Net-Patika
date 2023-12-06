@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enums", "Enums\Enums.csproj", "{599286FE-81E4-4E83-8004-D46B9D8F51AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{59A531C1-4B99-478F-A475-D82DB4CFCAAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{59A531C1-4B99-478F-A475-D82DB4CFCAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2ACB9084-07B9-492F-BC23-32E54F141708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{59A531C1-4B99-478F-A475-D82DB4CFCAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59A531C1-4B99-478F-A475-D82DB4CFCAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59A531C1-4B99-478F-A475-D82DB4CFCAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACB9084-07B9-492F-BC23-32E54F141708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACB9084-07B9-492F-BC23-32E54F141708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACB9084-07B9-492F-BC23-32E54F141708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACB9084-07B9-492F-BC23-32E54F141708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
