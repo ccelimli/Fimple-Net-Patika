@@ -1,0 +1,15 @@
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\bin\Debug\net7.0\Polymorphism.exe
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\bin\Debug\net7.0\Polymorphism.deps.json
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\bin\Debug\net7.0\Polymorphism.runtimeconfig.json
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\bin\Debug\net7.0\Polymorphism.dll
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\bin\Debug\net7.0\Polymorphism.pdb
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.AssemblyReference.cache
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfoInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfo.cs
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.dll
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\refint\Polymorphism.dll
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.pdb
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\Polymorphism.genruntimeconfig.cache
+C:\workspace\FimpleNet\FimpleNet\Polymorphism\obj\Debug\net7.0\ref\Polymorphism.dll
