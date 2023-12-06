@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2ACB9084-07B9-492F-BC23-32E54F141708}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBook", "..\FimpleWeeklyTasks\PhoneBook\PhoneBook.csproj", "{9F8F01A2-9592-4D69-BDBA-B480E6CA3045}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{2ACB9084-07B9-492F-BC23-32E54F141708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ACB9084-07B9-492F-BC23-32E54F141708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ACB9084-07B9-492F-BC23-32E54F141708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8F01A2-9592-4D69-BDBA-B480E6CA3045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8F01A2-9592-4D69-BDBA-B480E6CA3045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8F01A2-9592-4D69-BDBA-B480E6CA3045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8F01A2-9592-4D69-BDBA-B480E6CA3045}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
